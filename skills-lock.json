@@ -1,6 +1,11 @@
 {
   "version": 1,
   "skills": {
+    "Prototype Designer": {
+      "source": "daffy0208/ai-dev-standards",
+      "sourceType": "github",
+      "computedHash": "204013bd47a94bad37a5401cfc05b0d1f872cd3b49f9c4c3f5f008f1d3a9c8f3"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
