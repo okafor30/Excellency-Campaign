@@ -6,6 +6,11 @@
       "sourceType": "github",
       "computedHash": "204013bd47a94bad37a5401cfc05b0d1f872cd3b49f9c4c3f5f008f1d3a9c8f3"
     },
+    "content-strategy": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "computedHash": "be124f3733b037fb8d859f275454ecd1c590759ef9ab184bea35ba1a0a38e14c"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
