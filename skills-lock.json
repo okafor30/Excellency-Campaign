@@ -11,6 +11,11 @@
       "sourceType": "github",
       "computedHash": "be124f3733b037fb8d859f275454ecd1c590759ef9ab184bea35ba1a0a38e14c"
     },
+    "figma-create-design-system-rules": {
+      "source": "figma/mcp-server-guide",
+      "sourceType": "github",
+      "computedHash": "2a0d7f3579044c13eed985f721093e2637f91fb8fe22b49dd7e99eedd2ca5180"
+    },
     "figma-implement-design": {
       "source": "figma/mcp-server-guide",
       "sourceType": "github",
