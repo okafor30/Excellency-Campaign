@@ -11,6 +11,11 @@
       "sourceType": "github",
       "computedHash": "be124f3733b037fb8d859f275454ecd1c590759ef9ab184bea35ba1a0a38e14c"
     },
+    "figma-implement-design": {
+      "source": "figma/mcp-server-guide",
+      "sourceType": "github",
+      "computedHash": "3a73f35eaa52cba221f5f237097b6e2e4c193c558bf88aa4ab32dec736ad0ffe"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
